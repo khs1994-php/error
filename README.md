@@ -5,6 +5,7 @@ Error
    AssertionError 
    ParseError 
    TypeError
+       ArgumentCountError
 Exception 
    ClosedGeneratorException
    DOMException 
