@@ -1,7 +1,8 @@
 ```bash
 Exception 
    DOMException 
-   ErrorException 
+   ErrorException
+   IntlException
    LogicException 
       BadFunctionCallException 
          BadMethodCallException 
