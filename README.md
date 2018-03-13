@@ -27,4 +27,5 @@ Exception
       RangeException 
       UnderflowException 
       UnexpectedValueException
+   SodiumException  
  ```     
