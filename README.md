@@ -1,5 +1,12 @@
 ```bash
+Error 
+   ArithmeticError 
+       DivisionByZeroError 
+   AssertionError 
+   ParseError 
+   TypeError
 Exception 
+   ClosedGeneratorException
    DOMException 
    ErrorException
    IntlException
