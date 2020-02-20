@@ -1,31 +1,33 @@
 ```bash
-Error 
-   ArithmeticError 
-       DivisionByZeroError 
-   AssertionError 
-   ParseError 
+Error
+   ArithmeticError
+      DivisionByZeroError
+   AssertionError
+   CompileError
+      ParseError
    TypeError
-       ArgumentCountError
-Exception 
+      ArgumentCountError
+Exception
    ClosedGeneratorException
-   DOMException 
+   DOMException
    ErrorException
    IntlException
-   LogicException 
-      BadFunctionCallException 
-         BadMethodCallException 
-      DomainException 
-      InvalidArgumentException 
-      LengthException 
-      OutOfRangeException 
-   PharException 
-   ReflectionException 
-   RuntimeException 
-      OutOfBoundsException 
-      OverflowException 
+   JsonException
+   LogicException
+      BadFunctionCallException
+         BadMethodCallException
+      DomainException
+      InvalidArgumentException
+      LengthException
+      OutOfRangeException
+   PharException
+   ReflectionException
+   RuntimeException
+      OutOfBoundsException
+      OverflowException
       PDOException
-      RangeException 
-      UnderflowException 
+      RangeException
+      UnderflowException
       UnexpectedValueException
-   SodiumException  
+   SodiumException
  ```     
