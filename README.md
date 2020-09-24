@@ -7,6 +7,8 @@ Error
       ParseError
    TypeError
       ArgumentCountError
+   UnhandledMatchError
+   ValueError
 Exception
    ClosedGeneratorException
    DOMException
@@ -29,5 +31,4 @@ Exception
       RangeException
       UnderflowException
       UnexpectedValueException
-   SodiumException
  ```     
